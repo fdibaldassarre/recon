@@ -32,13 +32,14 @@ We can match the fields using
 ```
 
 and obtain
-> bitcoin --> cryptocurrency
-> stock --> shares
-> cash --> balance
-> rating --> weight
-> start --> begin
-> peak --> top
-
+```sh
+bitcoin --> cryptocurrency
+stock --> shares
+cash --> balance
+rating --> weight
+start --> begin
+peak --> top
+```
 ### Example 2
 
 The embedding given by the model (Word2Vec) preserves semantic and syntactic relationships.
